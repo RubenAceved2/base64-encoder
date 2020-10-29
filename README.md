@@ -65,6 +65,8 @@ Obs: same logic that encoding a file.
 
 Any doubts just send me an e-mail, rubenfsolorzano@hotmail.com
 
+Bye!
+
 # License
 
 ISC
