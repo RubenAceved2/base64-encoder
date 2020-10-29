@@ -1,4 +1,4 @@
-# base64-encoder
+# rbase64-encoder
 
 # Description
 
@@ -11,13 +11,13 @@ A minimalist and easy-to-use base64 encoder and decoder. It works with variables
 On terminal:
 
 ```
-npm i base64-encoder
+npm i rbase64-encoder
 ```
 
 In your app:
 
 ```
-const base64 = require('base64-encoder')
+const base64 = require('rbase64-encoder')
 ```
 
 ## Encoding
